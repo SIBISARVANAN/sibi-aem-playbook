@@ -11,16 +11,16 @@ Most AEM work happens behind client NDAs, so day-to-day project experience rarel
 ### Core Concepts (`docs/core-concepts/`)
 Fundamentals shared across nearly every AEM backend task.
 
-- [01 — Sling Models](docs/core-concepts/01-sling-models.md)
-- [02 — OSGi Service Registry](docs/core-concepts/02-osgi-service-registry.md)
-- [03 — OSGi Configuration Registry](docs/core-concepts/03-osgi-configuration-registry.md)
-- [04 — Sling Servlets](docs/core-concepts/04-sling-servlets.md)
-- [05 — Sling Jobs](docs/core-concepts/05-sling-jobs.md)
-- [06 — Event Handlers & Resource Listeners](docs/core-concepts/06-event-handlers-resource-listeners.md)
-- [07 — Cluster-Aware Listeners](docs/core-concepts/07-cluster-aware-listeners.md)
-- [08 — Sling Filters](docs/core-concepts/08-sling-filters.md)
-- [09 — Request Flow: CDN → Dispatcher → AEM](docs/core-concepts/09-request-flow-cdn-dispatcher-aem.md)
-- [10 — AEM Workflows](docs/core-concepts/10-aem-workflows.md)
+- [01 — Sling Models](docs/core-concepts/sling-models.md)
+- [02 — OSGi Service Registry](docs/core-concepts/osgi-service-registry.md)
+- [03 — OSGi Configuration Registry](docs/core-concepts/osgi-configuration-registry.md)
+- [04 — Sling Servlets](docs/core-concepts/sling-servlets.md)
+- [05 — Sling Jobs](docs/core-concepts/sling-jobs.md)
+- [06 — Event Handlers & Resource Listeners](docs/core-concepts/event-handlers-resource-listeners.md)
+- [07 — Cluster-Aware Listeners](docs/core-concepts/cluster-aware-listeners.md)
+- [08 — Sling Filters](docs/core-concepts/sling-filters.md)
+- [09 — Request Flow: CDN → Dispatcher → AEM](docs/core-concepts/request-flow-cdn-dispatcher-aem.md)
+- [10 — AEM Workflows](docs/core-concepts/aem-workflows.md)
 
 ### Applied Code Patterns (`docs/applied-code-patterns/`)
 Patterns tied to real scenarios and security/ops concerns, not just API surface.
